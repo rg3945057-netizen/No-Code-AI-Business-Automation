@@ -117,14 +117,6 @@ This project demonstrates how powerful business systems can be built without cod
 
 ## 🔗 Additional Resources
 
-* Notion Documentation: *(Add your link here if available)*
-* Demo Video: *(Optional)*
-
----
-
-## 👨‍💻 Author
-
-**Tanishq Gupta**
-Newton School of Technology, Pune
+* Notion Documentation: *https://www.notion.so/3353b8197dee80048120c6820e2745ef?source=copy_link*
 
 ---
