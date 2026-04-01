@@ -91,22 +91,6 @@ The system uses AI to:
 
 ---
 
-## 📅 Milestone 1 (Planning & Setup)
-
-This milestone focuses on designing the system architecture and workflow.
-
-### ✔ Completed Tasks:
-
-* Defined complete workflow of the system
-* Designed Airtable CRM schema
-* Planned lead capture form structure
-* Created automation logic (Zapier/Make flow)
-* Defined AI scoring mechanism
-* Drafted system architecture
-* Prepared documentation
-
----
-
 ## ⚠️ Limitations
 
 * Depends on third-party APIs and tools
